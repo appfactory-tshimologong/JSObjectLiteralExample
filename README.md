@@ -1,2 +1,1 @@
-# JSObjectLiteralExample
-A short project demonstrating the JavaScript Object Literal
+# JavaScript Object Syntax
